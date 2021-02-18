@@ -1,9 +1,10 @@
-def tri_iteratif(tab):
-    for k in range( ... , 0, -1):
-        imax = ...
-        for i in range(0 , ... ):
-            if tab[i] > ... :
-                imax = i
-        if tab[max] > ... :
-            ... , tab[imax] = tab[imax] , ...
-    return tab
+Pieces = [100,50,20,10,5,2,1]
+def rendu_glouton(arendre, solution=[], i=0):
+    if arendre == 0:
+        return ...
+    p = Pieces[i] #correction
+    if p <= ... :
+        solution.append(...) #correction
+        return rendu_glouton(arendre - p,solution ,i) #correction
+    else :
+        return rendu_glouton(arendre, solution, ...)
