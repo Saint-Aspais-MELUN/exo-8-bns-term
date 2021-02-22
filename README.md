@@ -1,8 +1,8 @@
 # Sujet 8
 
-Ce sujet comporte deux exercices.
+Ce sujet comporte deux exercices : voir le PDF ci-joint
 
-Pour le premier exercice, vous devez écrire une fonction `recherche` (voir le PDF ci-joint)
+Pour le premier exercice, vous devez écrire une fonction `recherche` 
 
 
 Pour le deuxième, il s'agit de compléter le code fourni.
